@@ -9,7 +9,8 @@ Sono inoltre in grado di usare servizi come Cloudflare (WAF/Access/Tunnel/Worker
 [Do you speak english?](assets/translations/en.README.md)-->
 
 ## Contattami
-- Email: cairogioele@gmail.com
+- Email personale: gioele.cairo@samtrevano.ch
+- Email professionale: gioelecairo@zexa.ch
 - Linkedin: https://linkedin.com/in/cairogioele
 
 ---
