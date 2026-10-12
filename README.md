@@ -1,9 +1,16 @@
-Un appassionato di computer, ma certamente non di librerie ;)
-Preferisco creare un programma manualmente piuttosto che affidarmi a librerie già sviluppate, perché? Onestamente non lo so nemmeno io, ma son sicuro sul fatto che questa pratica si applica anche sui linguaggi di programmazione, infatti niente NodeJS, React o altri linguaggi simili.
-Oltre a siti web mi diletto anche nella creazione di PCB, ma non fanno molto per me.
+# Eccomi!
+*Studente presso il Centro Professionale Tecnico di Trevano (CPT-Tr), indirizzo Sviluppo di applicazioni AFC come informatico.*
 
-[Parle français?](assets/translations/fr.README.md)<br>
-[Do you speak english?](assets/translations/en.README.md)
+Sono Gioele, uno sviluppatore di applicazioni web (come siti oppure API -> developer fullstack) e provider di servizi hosting. Lavoro principalmente con i linguaggi PHP e JavaScript (con le sue varie salse, come Node.JS), ma so usare/sto studiando Python, SQL, C++, C#, Java, PowerShell.
+
+Sono inoltre in grado di usare servizi come Cloudflare (WAF/Access/Tunnel/Workers), Grafana, phpMyAdmin. Per i sistemi operativi, Windows (10/11/Server 2019), Linux (Debian/Ubuntu), Proxmox Server (9 o superiore, via GUI).
+
+<!--[Parle français?](assets/translations/fr.README.md)<br>
+[Do you speak english?](assets/translations/en.README.md)-->
+
+## Contattami
+- Email: cairogioele@gmail.com
+- Linkedin: https://linkedin.com/in/cairogioele
 
 ---
 
