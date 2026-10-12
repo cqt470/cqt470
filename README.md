@@ -28,4 +28,4 @@ Essendo un provider di servizi hosting, segnalo attività sospette su AbuseIPDB 
 ---
 
 <img src="assets/banner.png"></img>
-[&copy;Medium](https://miro.medium.com/v2/resize:fit:1400/1*FeAlTfkLsQY2-RO2T7rWJw.jpeg)
+"L'essenziale è invisibile agli occhi." - [&copy;Medium](https://miro.medium.com/v2/resize:fit:1400/1*FeAlTfkLsQY2-RO2T7rWJw.jpeg)
