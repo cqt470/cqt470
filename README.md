@@ -27,4 +27,4 @@ Essendo un provider di servizi hosting, segnalo attività sospette su AbuseIPDB 
 
 ---
 
-#praiseopensource
+<img src="assets/image.png"></img>
