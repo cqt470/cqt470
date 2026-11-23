@@ -1,3 +1,5 @@
+<img src="assets/idk_something.png"></img>
+---
 # Eccomi!
 *Studente presso il Centro Professionale Tecnico di Trevano (CPT-Tr), indirizzo Sviluppo di applicazioni AFC come informatico.*
 
